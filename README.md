@@ -1,6 +1,6 @@
-# Data-Driven Projection for Reducing Dimensionality of Linear Programs: Generalization Bound and Learning Methods
+# Generalization Bound and Learning Methods for Data-Driven Projections in Linear Programming
 
-Official implementation of [Data-Driven Projection for Reducing Dimensionality of Linear Programs: Generalization Bound and Learning Methods]().
+Official implementation of [Generalization Bound and Learning Methods for Data-Driven Projections in Linear Programming](https://arxiv.org/abs/2309.00203).
 
 ## Requirements
 - gurobipy 10.0.1
